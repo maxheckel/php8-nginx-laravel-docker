@@ -1,4 +1,4 @@
-# PHP 8 Dockerfile Setup for Laravel 
+# PHP 8, Nginx, Laravel Dockerfile Setup
 This is intended to be a package to allow you to copy its contents into a folder in your project `{project_folder}/.docker` 
 Then build and tag it to create an all in one containerized php application.
 
